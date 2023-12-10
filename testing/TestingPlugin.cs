@@ -70,7 +70,7 @@ public class TestingPlugin : BaseUnityPlugin {
 	}
 
 	[HarmonyPatch(typeof(DayNightCycle), "Update")]
-	class HarmonyPatch_Water_Start {
+	class HarmonyPatch_DayNightCycle_Update {
 		
 		private static void Postfix(DayNightCycle __instance) {	
 		}
@@ -83,4 +83,6 @@ public class TestingPlugin : BaseUnityPlugin {
 			return true;
 		}
 	}
+
+	
 }
