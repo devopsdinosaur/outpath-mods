@@ -84,5 +84,4 @@ public class TestingPlugin : BaseUnityPlugin {
 		}
 	}
 
-	
 }
