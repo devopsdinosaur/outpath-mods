@@ -5,6 +5,10 @@ using HarmonyLib;
 using System;
 using UnityEngine;
 using System.Reflection;
+using OverfortGames.FirstPersonController;
+
+using MyPooler;
+
 
 [BepInPlugin("devopsdinosaur.outpath.testing", "Testing", "0.0.1")]
 public class TestingPlugin : BaseUnityPlugin {

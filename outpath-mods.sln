@@ -14,6 +14,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "more_resources", "more_reso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "super_food", "super_food\super_food.csproj", "{6FA70187-BBC8-4C02-A7F5-99FB9A78119E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e_is_for_exit", "e_is_for_exit\e_is_for_exit.csproj", "{45B2ECF6-11FD-4E83-8D58-ECBB10C2129A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fishing_buddy", "fishing_buddy\fishing_buddy.csproj", "{9BF46448-9490-4237-A1A5-2A298F03F7A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +36,14 @@ Global
 		{6FA70187-BBC8-4C02-A7F5-99FB9A78119E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FA70187-BBC8-4C02-A7F5-99FB9A78119E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FA70187-BBC8-4C02-A7F5-99FB9A78119E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45B2ECF6-11FD-4E83-8D58-ECBB10C2129A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B2ECF6-11FD-4E83-8D58-ECBB10C2129A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B2ECF6-11FD-4E83-8D58-ECBB10C2129A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B2ECF6-11FD-4E83-8D58-ECBB10C2129A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BF46448-9490-4237-A1A5-2A298F03F7A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF46448-9490-4237-A1A5-2A298F03F7A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF46448-9490-4237-A1A5-2A298F03F7A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF46448-9490-4237-A1A5-2A298F03F7A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
